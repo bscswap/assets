@@ -1,17 +1,9 @@
 {
    "tokens":{
-      "ether":{
-         "address":"ether",
-         "name":"BNB",
-         "symbol":"BNB",
-         "precision":4,
-         "decimals":18,
-         "color":"#F0B90B",
-         "hasIcon":true
-      },
       "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd":{
          "name":"Wrapped BNB",
          "address":"0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+         "id":"wbnb",
          "symbol":"WBNB",
          "precision":4,
          "decimals":18,
@@ -21,6 +13,7 @@
       "0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8":{
          "name":"BTCB Token",
          "address":"0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8",
+         "id":"btcb",
          "symbol":"BTCB",
          "precision":4,
          "decimals":18,
@@ -30,6 +23,7 @@
       "0xd66c6B4F0be8CE5b39D52E0Fd1344c389929B378":{
          "name":"Ethereum Token",
          "address":"0xd66c6B4F0be8CE5b39D52E0Fd1344c389929B378",
+         "id":"eth",
          "symbol":"ETH",
          "precision":4,
          "decimals":18,
@@ -39,6 +33,7 @@
       "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd":{
          "name":"Tether USD",
          "address":"0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
+         "id":"usdt",
          "symbol":"USDT",
          "precision":4,
          "decimals":18,
@@ -48,6 +43,7 @@
       "0x6B043332090a6BE81De1503949Cfc8bac2cA1c33":{
          "name":"EOS Token",
          "address":"0x6B043332090a6BE81De1503949Cfc8bac2cA1c33",
+         "id":"eos",
          "symbol":"EOS",
          "precision":4,
          "decimals":18,
@@ -57,6 +53,7 @@
       "0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867":{
          "name":"Dai Token",
          "address":"0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867",
+         "id":"dai",
          "symbol":"DAI",
          "precision":4,
          "decimals":18,
@@ -66,6 +63,7 @@
       "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee":{
          "name":"BUSD Token",
          "address":"0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+         "id":"busd",
          "symbol":"BUSD",
          "precision":4,
          "decimals":18,
