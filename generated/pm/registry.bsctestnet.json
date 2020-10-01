@@ -3,7 +3,7 @@
       "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd":{
          "name":"Wrapped BNB",
          "address":"0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
-         "id":"wbnb",
+         "id":"binancecoin",
          "symbol":"WBNB",
          "precision":4,
          "decimals":18,
@@ -13,7 +13,7 @@
       "0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8":{
          "name":"BTCB Token",
          "address":"0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8",
-         "id":"btcb",
+         "id":"bitcoin",
          "symbol":"BTCB",
          "precision":4,
          "decimals":18,
@@ -23,7 +23,7 @@
       "0xd66c6B4F0be8CE5b39D52E0Fd1344c389929B378":{
          "name":"Ethereum Token",
          "address":"0xd66c6B4F0be8CE5b39D52E0Fd1344c389929B378",
-         "id":"eth",
+         "id":"ethereum",
          "symbol":"ETH",
          "precision":4,
          "decimals":18,
@@ -33,7 +33,7 @@
       "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd":{
          "name":"Tether USD",
          "address":"0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
-         "id":"usdt",
+         "id":"tether",
          "symbol":"USDT",
          "precision":4,
          "decimals":18,

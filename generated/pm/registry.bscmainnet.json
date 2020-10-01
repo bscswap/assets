@@ -2,7 +2,7 @@
    "tokens":{
       "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c":{
          "address":"0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-         "id":"wbnb",
+         "id":"binancecoin",
          "name":"Wrapped BNB",
          "symbol":"WBNB",
          "decimals":18,
@@ -12,7 +12,7 @@
       },
       "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c":{
          "address":"0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-         "id":"btcb",
+         "id":"bitcoin",
          "name":"BTCB Token",
          "symbol":"BTCB",
          "decimals":18,
@@ -22,7 +22,7 @@
       },
       "0x2170Ed0880ac9A755fd29B2688956BD959F933F8":{
          "address":"0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-         "id":"eth",
+         "id":"ethereum",
          "name":"Ethereum Token",
          "symbol":"ETH",
          "decimals":18,
@@ -33,7 +33,7 @@
       "0x55d398326f99059fF775485246999027B3197955":{
          "name":"Tether USD",
          "address":"0x55d398326f99059fF775485246999027B3197955",
-         "id":"usdt",
+         "id":"tether",
          "symbol":"USDT",
          "precision":4,
          "decimals":18,
@@ -43,7 +43,7 @@
       "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE":{
          "name":"XRP Token",
          "address":"0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
-         "id":"xrp",
+         "id":"ripple",
          "symbol":"XRP",
          "precision":4,
          "decimals":18,
@@ -53,7 +53,7 @@
       "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD":{
          "name":"ChainLink Token",
          "address":"0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
-         "id":"link",
+         "id":"chainlink",
          "symbol":"LINK",
          "precision":4,
          "decimals":18,
@@ -63,7 +63,7 @@
       "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf":{
          "name":"Bitcoin Cash Token",
          "address":"0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
-         "id":"bch",
+         "id":"bitcoin-cash",
          "symbol":"BCH",
          "precision":4,
          "decimals":18,
@@ -73,7 +73,7 @@
       "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402":{
          "name":"Polkadot Token",
          "address":"0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
-         "id":"dot",
+         "id":"polkadot",
          "symbol":"DOT",
          "precision":4,
          "decimals":18,
@@ -83,7 +83,7 @@
       "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94":{
          "name":"Litecoin Token",
          "address":"0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
-         "id":"ltc",
+         "id":"litecoin",
          "symbol":"LTC",
          "precision":4,
          "decimals":18,
@@ -103,7 +103,7 @@
       "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47":{
          "name":"Cardano Token",
          "address":"0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
-         "id":"ada",
+         "id":"cardano",
          "symbol":"ADA",
          "precision":4,
          "decimals":18,
@@ -113,7 +113,7 @@
       "0x16939ef78684453bfDFb47825F8a5F714f12623a":{
          "name":"Tezos Token",
          "address":"0x16939ef78684453bfDFb47825F8a5F714f12623a",
-         "id":"xtz",
+         "id":"tezos",
          "symbol":"XTZ",
          "precision":4,
          "decimals":18,
@@ -123,7 +123,7 @@
       "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335":{
          "name":"Ontology Token",
          "address":"0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
-         "id":"ont",
+         "id":"ontology",
          "symbol":"ONT",
          "precision":4,
          "decimals":18,
@@ -143,7 +143,7 @@
       "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18":{
          "name":"Band Protocol Token",
          "address":"0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
-         "id":"band",
+         "id":"band-protocol",
          "symbol":"BAND",
          "precision":4,
          "decimals":18,
@@ -163,7 +163,7 @@
       "0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5":{
          "name":"Prometeus",
          "address":"0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
-         "id":"prom",
+         "id":"prometeus",
          "symbol":"PROM",
          "precision":4,
          "decimals":18,
@@ -173,7 +173,7 @@
       "0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56":{
          "name":"CanYaCoin",
          "address":"0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56",
-         "id":"can",
+         "id":"canyacoin",
          "symbol":"CAN",
          "precision":4,
          "decimals":18,
@@ -183,7 +183,7 @@
       "0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C":{
          "name":"SPARTAN PROTOCOL TOKEN",
          "address":"0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C",
-         "id":"sparta",
+         "id":"spartan-protocol-token",
          "symbol":"SPARTA",
          "precision":4,
          "decimals":18,
@@ -203,7 +203,7 @@
       "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f":{
          "name":"Burger Swap",
          "address":"0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
-         "id":"burger",
+         "id":"burger-swap",
          "symbol":"BURGER",
          "precision":4,
          "decimals":18,
@@ -243,7 +243,7 @@
       "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5":{
          "name":"BakeryToken",
          "address":"0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
-         "id":"bake",
+         "id":"bakerytoken",
          "symbol":"BAKE",
          "precision":4,
          "decimals":18,
@@ -253,7 +253,7 @@
       "0x0Eb3a705fc54725037CC9e008bDede697f62F335":{
          "name":"Cosmos Token",
          "address":"0x0Eb3a705fc54725037CC9e008bDede697f62F335",
-         "id":"atom",
+         "id":"cosmos",
          "symbol":"ATOM",
          "precision":4,
          "decimals":18,
@@ -263,7 +263,7 @@
       "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb":{
          "name":"Zcash Token",
          "address":"0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
-         "id":"zec",
+         "id":"zcash",
          "symbol":"ZEC",
          "precision":4,
          "decimals":18,
@@ -273,7 +273,7 @@
       "0x7F70642d88cf1C4a3a7abb072B53B929b653edA5":{
          "name":"YFII.finance Token",
          "address":"0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
-         "id":"yfii",
+         "id":"yfii-finance",
          "symbol":"YFII",
          "precision":4,
          "decimals":18,
@@ -343,7 +343,7 @@
       "0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa":{
          "name":"Anyswap-BEP20",
          "address":"0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa",
-         "id":"any",
+         "id":"anyswap",
          "symbol":"ANY",
          "precision":4,
          "decimals":18,
@@ -383,7 +383,7 @@
       "0x32dFFc3fE8E3EF3571bF8a72c0d0015C5373f41D":{
          "name":"JustLiquidity",
          "address":"0x32dFFc3fE8E3EF3571bF8a72c0d0015C5373f41D",
-         "id":"julb",
+         "id":"justliquidity",
          "symbol":"JULb",
          "precision":4,
          "decimals":18,
@@ -403,7 +403,7 @@
       "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82":{
          "name":"Pancake Token",
          "address":"0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-         "id":"cake",
+         "id":"pancakeswap",
          "symbol":"Cake",
          "precision":4,
          "decimals":18,
@@ -443,7 +443,7 @@
       "0xf307910A4c7bbc79691fD374889b36d8531B08e3":{
          "name":"Ankr",
          "address":"0xf307910A4c7bbc79691fD374889b36d8531B08e3",
-         "id":"ankr",
+         "id":"ankr-network",
          "symbol":"ANKR",
          "precision":4,
          "decimals":18,
@@ -453,7 +453,7 @@
       "0xcD7C5025753a49f1881B31C48caA7C517Bb46308":{
          "name":"Raven Protocol",
          "address":"0xcD7C5025753a49f1881B31C48caA7C517Bb46308",
-         "id":"raven",
+         "id":"raven-protocol",
          "symbol":"RAVEN",
          "precision":4,
          "decimals":18,
@@ -473,7 +473,7 @@
       "0x90DF11a8ccE420675e73922419e3f4f3Fe13CCCb":{
          "name":"Streamity",
          "address":"0x90DF11a8ccE420675e73922419e3f4f3Fe13CCCb",
-         "id":"stm",
+         "id":"streamity",
          "symbol":"STM",
          "precision":4,
          "decimals":18,
