@@ -193,7 +193,7 @@
       "0x8E9f5173e16Ff93F81579d73A7f9723324d6B6aF":{
          "name":"Milk Protocol",
          "address":"0x8E9f5173e16Ff93F81579d73A7f9723324d6B6aF",
-         "id":"milk",
+         "id":"milk-protocol",
          "symbol":"MILK",
          "precision":4,
          "decimals":18,
